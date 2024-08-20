@@ -1,3 +1,4 @@
+
 "use client"; // Add this line at the very top
 
 import { useEffect, useState } from "react";
@@ -46,4 +47,3 @@ const CountdownTimer = () => {
 };
 
 export default CountdownTimer;
-
